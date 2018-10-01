@@ -1,0 +1,10 @@
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\bin\Debug\Wizards.exe.config
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\bin\Debug\Wizards.exe
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\bin\Debug\Wizards.pdb
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\bin\Debug\ClassLibrary1.dll
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\bin\Debug\ClassLibrary1.pdb
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\obj\Debug\Wizards.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\obj\Debug\Wizards.exe
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\obj\Debug\Wizards.pdb
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\obj\Debug\Wizards.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Wizards\Wizards\obj\Debug\Wizards.csproj.CopyComplete
